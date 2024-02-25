@@ -1,0 +1,462 @@
+.div {
+    background-color: #efe6d9;
+    display: flex;
+    padding-top: 50px;
+    flex-direction: column;
+    width: 100%;
+  }
+  .div-2 {
+    display: flex;
+    margin-top: 21px;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    font-size: 32px;
+    color: #000;
+    font-weight: 700;
+    padding: 0 59px;
+  }
+  @media (max-width: 991px) {
+    .div-2 {
+      max-width: 100%;
+      padding: 0 20px;
+    }
+  }
+  .div-3 {
+    border-radius: 30px;
+    background-color: rgba(89, 86, 83, 0.5);
+    align-self: stretch;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    white-space: nowrap;
+    padding: 32px 60px;
+  }
+  @media (max-width: 991px) {
+    .div-3 {
+      max-width: 100%;
+      white-space: initial;
+      padding: 0 20px;
+    }
+  }
+  .div-4 {
+    display: flex;
+    width: 937px;
+    max-width: 100%;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  @media (max-width: 991px) {
+    .div-4 {
+      flex-wrap: wrap;
+      white-space: initial;
+    }
+  }
+  .div-5 {
+    font-family: Istok Web, sans-serif;
+    padding-right: 45px;
+  }
+  .div-6 {
+    font-family: Istok Web, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    padding-right: 45px;
+  }
+  .div-7 {
+    font-family: Istok Web, sans-serif;
+    flex-grow: 1;
+    flex-basis: auto;
+    padding-right: 45px;
+  }
+  .div-8 {
+    font-family: Istok Web, sans-serif;
+    padding-right: 45px;
+  }
+  .div-9 {
+    font-family: Istok Web, sans-serif;
+    padding-right: 45px;
+  }
+  .div-10 {
+    font-family: Istok Web, sans-serif;
+    margin-top: 76px;
+  }
+  @media (max-width: 991px) {
+    .div-10 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-11 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 87px;
+  }
+  @media (max-width: 991px) {
+    .div-11 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-12 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 118px;
+  }
+  @media (max-width: 991px) {
+    .div-12 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-13 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 69px;
+  }
+  @media (max-width: 991px) {
+    .div-13 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-14 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    align-self: start;
+    margin: 106px 0 0 65px;
+  }
+  @media (max-width: 991px) {
+    .div-14 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-15 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 92px;
+  }
+  @media (max-width: 991px) {
+    .div-15 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-16 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 94px;
+  }
+  @media (max-width: 991px) {
+    .div-16 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-17 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 70px;
+  }
+  @media (max-width: 991px) {
+    .div-17 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  .div-18 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+    margin-top: 95px;
+  }
+  @media (max-width: 991px) {
+    .div-18 {
+      max-width: 100%;
+      margin-top: 40px;
+    }
+  }
+  footer{
+    margin-top:15px;
+
+}
+
+.foot-panel{
+    background-color: #111417;
+    color:white;
+    height:50px;
+    width: 100vw;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+}
+
+.f2{
+    background-color: #222f3d;
+    color:white;
+    height: 500px;
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+}
+ul{
+    margin-top:20px;
+
+}
+
+ul a{
+    display:block;
+    font-size: 24px;
+    margin-top:20px;
+    color:#dddddd;
+
+}
+.f3{
+    background-color: #222f3d;
+    color:white;
+    border-top: 0.5px solid white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.f4{
+    background-color: #0f1111;
+    color:#dddddd;
+    height:80px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+  /* .div-19 {
+    border-radius: 50px 50px 0px 0px;
+    background-color: #595653;
+    display: flex;
+    margin-top: 323px;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 49px 76px;
+  }
+  @media (max-width: 991px) {
+    .div-19 {
+      max-width: 100%;
+      margin-top: 40px;
+      flex-wrap: wrap;
+      padding: 0 20px;
+    }
+  }
+  .div-20 {
+    align-self: start;
+    display: flex;
+    margin-top: 17px;
+    flex-basis: 0%;
+    flex-direction: column;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-20 {
+      white-space: initial;
+    }
+  }
+  .div-21 {
+    font: 24px Istok Web, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-21 {
+      white-space: initial;
+    }
+  }
+  .div-22 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 27px;
+  }
+  .div-23 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 17px;
+  }
+  .div-24 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 17px;
+  }
+  .div-25 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 17px;
+  }
+  .div-26 {
+    font-family: Istok Web, sans-serif;
+    text-decoration-line: underline;
+    margin-top: 17px;
+  }
+  .div-27 {
+    margin: auto 0;
+  }
+  @media (max-width: 991px) {
+    .div-27 {
+      max-width: 100%;
+    }
+  }
+  .div-28 {
+    gap: 20px;
+    display: flex;
+  }
+  @media (max-width: 991px) {
+    .div-28 {
+      flex-direction: column;
+      align-items: stretch;
+      gap: 0px;
+    }
+  }
+  .column {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 0px;
+  }
+  @media (max-width: 991px) {
+    .column {
+      width: 100%;
+    }
+  }
+  .div-29 {
+    display: flex;
+    margin-top: 4px;
+    flex-direction: column;
+    color: #fff;
+    font-weight: 700;
+  }
+  @media (max-width: 991px) {
+    .div-29 {
+      margin-top: 40px;
+    }
+  }
+  .div-30 {
+    white-space: nowrap;
+    font: 24px Istok Web, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-30 {
+      white-space: initial;
+    }
+  }
+  .div-31 {
+    margin-top: 26px;
+    font: 20px Istok Web, sans-serif;
+  }
+  .column-2 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-2 {
+      width: 100%;
+    }
+  }
+  .div-32 {
+    display: flex;
+    margin-top: 4px;
+    flex-direction: column;
+    color: #fff;
+    font-weight: 700;
+  }
+  @media (max-width: 991px) {
+    .div-32 {
+      margin-top: 40px;
+    }
+  }
+  .div-33 {
+    white-space: nowrap;
+    font: 24px Istok Web, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-33 {
+      white-space: initial;
+    }
+  }
+  .div-34 {
+    margin-top: 26px;
+    font: 20px Istok Web, sans-serif;
+  }
+  .column-3 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-3 {
+      width: 100%;
+    }
+  }
+  .div-35 {
+    display: flex;
+    margin-top: 4px;
+    flex-grow: 1;
+    flex-direction: column;
+    color: #fff;
+    font-weight: 700;
+    white-space: nowrap;
+  }
+  @media (max-width: 991px) {
+    .div-35 {
+      margin-top: 40px;
+      white-space: initial;
+    }
+  }
+  .div-36 {
+    font: 24px Istok Web, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-36 {
+      white-space: initial;
+    }
+  }
+  .div-37 {
+    text-decoration-line: underline;
+    margin-top: 22px;
+    font: 20px Istok Web, sans-serif;
+  }
+  .column-4 {
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+    width: 25%;
+    margin-left: 20px;
+  }
+  @media (max-width: 991px) {
+    .column-4 {
+      width: 100%;
+    }
+  }
+  .div-38 {
+    color: #fff;
+    letter-spacing: -2.4px;
+    font: 700 48px Istok Web, sans-serif;
+  }
+  @media (max-width: 991px) {
+    .div-38 {
+      margin-top: 40px;
+      font-size: 40px;
+    }
+  } */
